@@ -1,14 +1,14 @@
 ## 👋 Olá! Eu sou o Kauã Segundo da Silva
-💻 Estudante de Ciência da Computação | Foco em Back-End & Qualidade de Software  
-🐍 Desenvolvendo em Python e Django, testes automatizados e código limpo.
+💻 Estudante de Ciência da Computação | Foco em Back-End & Desenvolvimento de Sistemas
+🐍 Desenvolvendo com Python e Django para criar soluções robustas no lado servidor.
 
-Atualmente mergulhando no universo do desenvolvimento back-end, com projetos que envolvem Python, Django, banco de dados e testes automatizados com PyTest. Também tenho explorado o mundo do JavaScript para ampliar minha visão como desenvolvedor e integrar melhor com o front-end.
+Atualmente mergulhando no universo do desenvolvimento back-end, com projetos que envolvem Python, Django e banco de dados. Também venho explorando JavaScript para ampliar minha visão como desenvolvedor e integrar melhor com o front-end.
 
-🎯 Meu objetivo? Entregar software que realmente funcione bem e faça diferença na vida das pessoas.
+🎯 Meu objetivo? Criar sistemas eficientes, bem estruturados e que façam diferença na vida das pessoas.
 
-📖 Sempre estudando lógica, SQL, Django e automatizando testes por diversão (e por qualidade 🧪).
+📖 Sempre estudando lógica de programação, SQL e boas práticas de desenvolvimento back-end.
 
-🔍 Em busca de oportunidades para crescer, colaborar e aprender mais sobre desenvolvimento.  
+🔍 Em busca de oportunidades para crescer, colaborar e aprender mais sobre desenvolvimento de sistemas.
 📧 Vamos conversar: prsegundokaua@gmail.com
 
 <div>
